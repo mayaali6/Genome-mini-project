@@ -1,5 +1,5 @@
 # **This project is anlyzing the genome of *C.elegans* strain Bristol N2**
-The genome assembly being referenced can be represented by Genome Assembly ID GCA_000002985.3
+The genome assembly being referenced can be represented by Genome Assembly ID GCF_000002985.6
 ## **General information**
   Size of genome - 100 Mb
   GC content - 35% 
