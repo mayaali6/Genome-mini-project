@@ -11,7 +11,7 @@ The genome assembly being referenced can be represented by Genome Assembly ID GC
   For further specification see here: https://www.ncbi.nlm.nih.gov/datasets/gene/taxon/6239/?gene-type=Protein-coding
 ## **Access for whole genome sequence (WBcel235)**
   https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000002985.6/
-  coverage -
+  coverage - 40% , over 19000 genes
 ## **Gene set visualisation from NCBI**
   <img width="412" alt="Screenshot 2024-01-23 at 12 17 32 PM" src="https://github.com/mayaali6/Genome-mini-project/assets/156249778/ded6a463-8ed3-4142-9a1a-bfdd3cdc8bb4">
 
